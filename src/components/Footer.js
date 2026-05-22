@@ -75,7 +75,7 @@ const Footer = () => {
 
       <div className="footer-bottom">
         <div className="footer-bottom-content">
-          <p>&copy; {new Date().getFullYear()} Professor Diptiranja Samantarayn - University of Delhi. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Professor Diptiranjan Samantaray - University of Delhi. All rights reserved.</p>
           <p className="footer-credits">Academic Portfolio</p>
         </div>
       </div>
