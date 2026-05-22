@@ -1,7 +1,7 @@
 {
   "name": "portfolio-frontend",
   "version": "0.1.0",
-  "homepage": "https://DeptiranjanSamantaray.github.io/portfolio/",
+  
   "private": true,
   "proxy": "http://localhost:5000",
   "dependencies": {
