@@ -42,7 +42,7 @@ const Home = () => {
   ];
 
   const stats = [
-    { number: '16+', label: 'Years Experience', path: '/about' },
+    { number: '8+', label: 'Years Experience', path: '/about' },
     { number: '45+', label: 'Publications', path: '/publications' },
     { number: '2', label: 'Funded Projects', path: '/research' },
     { number: '3', label: 'Courses Taught', path: '/teaching' }
